@@ -1,0 +1,9 @@
+Config = {}
+Config.ESX = true
+Config.BotToken = "ODAxODk0Njg5NTM1Mjk1NDk5.YAnUoA.x9UzatXMj5TK32xZKpv8I1q0pow"
+Config.WebHook = "https://discord.com/api/webhooks/801895145494544465/KqdMvY9Mn7OpeIw3CCr6VL76co_V-FuS9L81wYTBYo1Nqud0rWI-kcrDh8T5meZkJmuo"
+Config.ChannelID = "801894964945748048"
+Config.ReplyUserName = "VoltageRP"
+Config.AvatarURL = "https://cdn.discordapp.com/attachments/758806681966346259/773563069401530388/logodiscord1.png"
+Config.Prefix = "vrp!"
+Config.WaitEveryTick = 4000
